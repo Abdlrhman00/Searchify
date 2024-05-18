@@ -1,0 +1,16 @@
+{
+  "name": "searchengine",
+  "version": "1.0.0",
+  "description": "search engine having two pages",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
