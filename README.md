@@ -26,7 +26,7 @@ Before getting started with Searchify, ensure you have Node.js and npm installed
 1. **Clone Repository**: Clone the Searchify repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/searchify.git
+    git clone https://github.com/Abdlrhman00/searchify.git
     ```
 
 2. **Navigate to Directory**: Change your working directory to the cloned repository:
