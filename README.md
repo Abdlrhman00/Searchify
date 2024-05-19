@@ -69,4 +69,4 @@ Meet the team behind Searchify:
 
 ## Feedback and Support
 
-We value your feedback and are committed to continuously improving BookWise. If you have any suggestions, ideas, or issues, please don't hesitate to [open an issue]https://github.com/Abdlrhman00/Searchify/issues) on GitHub. Our team is here to assist you and ensure that your experience with BookWise is enjoyable and fulfilling.
+We value your feedback and are committed to continuously improving BookWise. If you have any suggestions, ideas, or issues, please don't hesitate to [open an issue](https://github.com/Abdlrhman00/Searchify/issues) on GitHub. Our team is here to assist you and ensure that your experience with BookWise is enjoyable and fulfilling.
