@@ -61,11 +61,11 @@ Open your web browser and navigate to `http://localhost:3000` (or the appropriat
 
 Meet the team behind Searchify:
 
-- **[Abdulrahman Muhammad](https://github.com/Abdlrhman00)
-- **[Alaa Saeed](https://github.com/Alaa0Saeed)
-- **[Ahmed Mostafa](https://github.com/AhmedMu7)
-- **[Mohamed Khaled](https://github.com/moh18khaled)
-- **[Kareem Ragab](https://github.com/KareemRagabAbdelhameed)
+- [Abdulrahman Muhammad](https://github.com/Abdlrhman00)
+- [Alaa Saeed](https://github.com/Alaa0Saeed)
+- [Ahmed Mostafa](https://github.com/AhmedMu7)
+- [Mohamed Khaled](https://github.com/moh18khaled)
+- [Kareem Ragab](https://github.com/KareemRagabAbdelhameed)
 
 ## Feedback and Support
 
