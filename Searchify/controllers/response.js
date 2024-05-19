@@ -62,7 +62,6 @@ function defaultRadio(sortedData){
     populateTable(sortedData);
 }
 
-
     document.querySelectorAll('input[name="sortingOption"]').forEach((elem) => {
         elem.addEventListener("change", function(event) {
             const sortingOption = event.target.id;
